@@ -62,7 +62,7 @@ Version: 0.1
     animation: 500ms running fadeInUp;
     -webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
     transition: .5s !important;
-    background: #37A3FE!important;
+    background: #000000!important;
     z-index: 9999 !important;
     animation-name: slideInDown;
     animation-duration: 1.5s;
@@ -93,7 +93,7 @@ Version: 0.1
     font-weight: 600;
 }
 .cryptozen_menu ul li a:hover {
-    color: #37A3FE;
+    color: #000000;
 }
 .sticky-nav .cryptozen_menu ul li a{
     color:#fff;
@@ -219,7 +219,7 @@ a.stiky-logo img {
     transition: .5s;
 }
 .header-area .sub-menu ul li a:hover:before{
-    background:#37A3FE;
+    background:#000000;
 }
 .header-area .sub-menu ul li a:hover {
     color: #37A3FE!important;
